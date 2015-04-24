@@ -9,7 +9,7 @@ run `pip install -r requirements.txt`
 
 Build instructions:
 ------------------------------------------------------------------------------
-run `python setup.py build`
+run `python setup.py install`
 
 Run instructions:
 ------------------------------------------------------------------------------
